@@ -1,0 +1,11 @@
+node_modules
+package.json
+package-lock.json
+.nrepl-port
+.cpcache
+.clj-kondo/.cache
+.cljs_node_repl
+.lsp/.cache
+target
+out
+resources/VERSION
