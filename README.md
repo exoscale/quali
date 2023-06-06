@@ -2,7 +2,7 @@ quali: spec helper to (de-)qualify maps
 =======================================
 
 [![cljdocbadge](https://cljdoc.xyz/badge/exoscale/quali)](https://cljdoc.org/d/exoscale/quali/CURRENT/api/exoscale.quali)
-[![Clojars Project](https://img.shields.io/clojars/v/exoscale/quali.svg)](https://clojars.org/exoscale/quali)
+[![Clojars Project](https://img.shields.io/clojars/v/com.exoscale/quali.svg)](https://clojars.org/exoscale/quali)
 ![Test workflow](https://github.com/exoscale/quali/actions/workflows/main.yml/badge.svg)
 
 **quali** is a helper library for spec which helps go from standard
