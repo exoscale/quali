@@ -1,7 +1,7 @@
 quali: spec helper to (de-)qualify maps
 =======================================
 
-[![cljdocbadge](https://cljdoc.xyz/badge/exoscale/quali)](https://cljdoc.org/d/exoscale/quali/CURRENT/api/exoscale.quali)
+[![cljdocbadge](https://cljdoc.xyz/badge/com.exoscale/quali)](https://cljdoc.org/d/com.exoscale/quali/CURRENT/api/exoscale.quali)
 [![Clojars Project](https://img.shields.io/clojars/v/com.exoscale/quali.svg)](https://clojars.org/exoscale/quali)
 ![Test workflow](https://github.com/exoscale/quali/actions/workflows/main.yml/badge.svg)
 
